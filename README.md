@@ -1,1 +1,1 @@
-"# Struktura & Algoritme" 
+# Struktura & Algoritme
